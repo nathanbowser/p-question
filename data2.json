@@ -1,0 +1,13 @@
+{
+  "name": "Cervinia",
+  "lifts": [
+    {
+      "name": "Cretaz",
+      "status": "Open"
+    },
+    {
+      "name": "Fornet",
+      "status": "Closed"
+    }
+  ]
+}

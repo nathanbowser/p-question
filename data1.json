@@ -1,0 +1,17 @@
+{
+  "name": "Zermatt",
+  "lifts": [
+    {
+      "name": "Furi - Schwarzsee",
+      "status": "Open"
+    },
+    {
+      "name": "Schwarzsee - Furgg",
+      "status": "Open"
+    },
+    {
+      "name": "Hörnli",
+      "status": "Closed"
+    }
+  ]
+}
