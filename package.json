@@ -18,6 +18,7 @@
   "homepage": "https://github.com/nathanbowser/p-question",
   "dependencies": {
     "JSONStream": "^0.10.0",
-    "event-stream": "^3.2.2"
+    "event-stream": "^3.2.2",
+    "request": "^2.53.0"
   }
 }
