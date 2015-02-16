@@ -5,7 +5,7 @@ var fs = require('fs')
 
 http.createServer(function (req, res) {
   var streams = ['data1.json', 'data2.json'].map(function (f) {
-    return fs.createReadStream(__dirname + '/data1.json')
+    return fs.createReadStream(__dirname + '/' + f)
              .pipe(JSONStream.parse(['lifts', true]))
   })
 
